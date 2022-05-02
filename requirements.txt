@@ -1,4 +1,4 @@
-boto3==1.22.4
-psycopg2==2.9.3
-pytz==2022.1
-requests==2.22.0
+boto3==1.17.45
+requests==2.26.0
+yandex==0.0.2
+yandexcloud==0.105.0
